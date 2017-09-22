@@ -1,1 +1,2 @@
 This is one line that consists of a complete sentence.
+This is the second line consisting of a complete sentence.
