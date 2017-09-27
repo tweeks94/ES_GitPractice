@@ -1,1 +1,2 @@
 Rick and Morty is a tv show.
+Evil Morty is a Rick.
